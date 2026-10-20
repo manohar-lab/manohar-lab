@@ -96,7 +96,7 @@
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+## 👾 Pac-Man Contribution
 
 <div align="center">
 
